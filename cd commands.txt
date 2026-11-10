@@ -1,0 +1,15 @@
+Directory commands:
+
+
+Command	Meaning
+cd foldername	Enter a folder
+cd ..	         Go back one folder
+cd \	         Go to the drive's root folder
+cd "C:\Users\Aneesha Abbireddy"	 Go to a specific path
+cd	              Display your current directory
+
+
+mkdir "foldername"        create folder
+
+dir                     files and folders in current location
+
